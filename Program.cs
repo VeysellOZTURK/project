@@ -7,7 +7,7 @@ namespace hello {
         public static void Main(String[] Args){
 
 
-            Console.WriteLine("Veysel ÖZTÜRK.");
+            Console.WriteLine("Veysel ÖZTÜRK");
         }
     }
 }
