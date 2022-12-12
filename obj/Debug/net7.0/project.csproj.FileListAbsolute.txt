@@ -1,0 +1,15 @@
+/home/selim/dev/project/bin/Debug/net7.0/project
+/home/selim/dev/project/bin/Debug/net7.0/project.deps.json
+/home/selim/dev/project/bin/Debug/net7.0/project.runtimeconfig.json
+/home/selim/dev/project/bin/Debug/net7.0/project.dll
+/home/selim/dev/project/bin/Debug/net7.0/project.pdb
+/home/selim/dev/project/obj/Debug/net7.0/project.csproj.AssemblyReference.cache
+/home/selim/dev/project/obj/Debug/net7.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/home/selim/dev/project/obj/Debug/net7.0/project.AssemblyInfoInputs.cache
+/home/selim/dev/project/obj/Debug/net7.0/project.AssemblyInfo.cs
+/home/selim/dev/project/obj/Debug/net7.0/project.csproj.CoreCompileInputs.cache
+/home/selim/dev/project/obj/Debug/net7.0/project.dll
+/home/selim/dev/project/obj/Debug/net7.0/refint/project.dll
+/home/selim/dev/project/obj/Debug/net7.0/project.pdb
+/home/selim/dev/project/obj/Debug/net7.0/project.genruntimeconfig.cache
+/home/selim/dev/project/obj/Debug/net7.0/ref/project.dll
